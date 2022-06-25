@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;400;700;800&display=swap');
-
+/*@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;400;700;800&display=swap');*/
+@import url('https://fonts.googleapis.com/css2?family=Overpass:wght@200;400;700;800&family=Sarabun:wght@200;400;700;800&display=swap');
 :root {
-  --primary-color: #3282B8;
-  --primary-color-dark: #0F4C75;
-  --accent-color: #FFF8F0;
+  --primary-color: #32b85f;
+  --primary-color-dark: #0f6b75;
+  --accent-color: #fff4f0;
 }
 
 html {
